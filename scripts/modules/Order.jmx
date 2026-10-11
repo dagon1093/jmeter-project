@@ -28,7 +28,7 @@
                   <stringProp name="Argument.value">{&#xd;
   &quot;UserId&quot;: &quot;${__UUID}&quot;,&#xd;
   &quot;Amount&quot;: 100,&#xd;
-  &quot;Currency&quot;: &quot;Руб&quot;&#xd;
+  &quot;Currency&quot;: &quot;RUB&quot;&#xd;
 }</stringProp>
                   <stringProp name="Argument.metadata">=</stringProp>
                 </elementProp>
